@@ -1,0 +1,25 @@
+# SDK Oficial do Google Gemini
+google-genai>=1.0.0
+
+# Captura e Download de Streams
+yt-dlp>=2025.1.0
+
+# Comunicação Assíncrona e WebSockets
+aiohttp>=3.10.0
+websockets>=13.0
+
+# Processamento de Áudio e Imagem
+numpy>=1.26.0
+Pillow>=10.4.0
+
+# Interface Gráfica Moderna (Dark Theme)
+customtkinter>=6.0.0
+
+# Gerenciamento de Variáveis de Ambiente e Schemas
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+
+# Publicação Automática no YouTube Data API v3 (Canal Neri Clipes)
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0

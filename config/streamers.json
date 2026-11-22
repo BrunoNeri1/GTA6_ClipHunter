@@ -1,0 +1,142 @@
+{
+  "configuracoes_gerais": {
+    "modo_teste": false,
+    "intervalo_teste_segundos": 45,
+    "duracao_corte_segundos": 45,
+    "segundos_antes_do_pico": 25,
+    "segundos_depois_do_pico": 20,
+    "cooldown_entre_cortes_segundos": 45,
+    "limite_disco_buffer_mb": 500,
+    "segmento_tempo_segundos": 30,
+    "buffer_tempo_maximo_minutos": 5,
+    "sensibilidade_curadoria": "alta",
+    "amostragem_periodica_minutos": 3
+  },
+  "streamers": [
+    {
+      "prioridade": 1,
+      "nome": "Paulinho o LOKO (YouTube)",
+      "slug": "paulinho_yt",
+      "url": "https://www.youtube.com/@PaulinhoLOKOoficial",
+      "hashtags": "#paulinho #paulinholoko #gta6 #gtavi #gta6gameplay #vicecity #leonida #gta6brasil #nericlipes #shorts",
+      "palavras_gatilho_chat": [
+        "GTA6", "GTA 6", "GTAVI", "GTA VI", "VICE CITY", "LEONIDA", "LUCIA", "JASON",
+        "DETALHE", "DETALHES", "FISICA", "FÍSICA", "REALISMO", "REALISTA", "GRAFICO", "GRÁFICO",
+        "GRAFICOS", "GRÁFICOS", "NPC", "NPCS", "AGUA", "ÁGUA", "CINEMA", "OBRA PRIMA", "GOTY",
+        "SURREAL", "ABSURDO", "BUG", "BUGOU", "EXPLODIU", "CAPOTOU", "POLICIA", "POLÍCIA",
+        "FUGA", "PERSEGUICAO", "PERSEGUIÇÃO", "ESTRELAS", "MORREU", "VOOU", "ATROPELOU", "CAOS",
+        "EASTER EGG", "SEGREDO", "CJ", "SAN ANDREAS", "TOMMY", "TREVOR", "CUTSCENE", "MISSAO", "MISSÃO",
+        "CLIP", "CLIPA", "SALVA", "CARALHO", "TAPORRA", "TA PORRA", "CARACA", "MEU DEUS", "MDS",
+        "IMPOSSIVEL", "IMPOSSÍVEL", "QUE ISSO", "QUE JOGO", "BIZARRO", "LOUCURA", "CHOCADO",
+        "KKKKK", "KAKAKA", "HAHAHA", "OLHA ISSO", "MANO", "SOCORRO", "INSANO"
+      ],
+      "webcam_crop": {
+        "ativo": true,
+        "x": 13,
+        "y": 11,
+        "w": 493,
+        "h": 278
+      }
+    },
+    {
+      "prioridade": 2,
+      "nome": "Paulinho o LOKO (Kick)",
+      "slug": "paulinholokobr",
+      "url": "https://kick.com/paulinholokobr",
+      "hashtags": "#paulinho #paulinholoko #gta6 #gtavi #gta6gameplay #vicecity #leonida #gta6brasil #nericlipes #shorts",
+      "palavras_gatilho_chat": [
+        "GTA6", "GTA 6", "GTAVI", "GTA VI", "VICE CITY", "LEONIDA", "LUCIA", "JASON",
+        "DETALHE", "DETALHES", "FISICA", "FÍSICA", "REALISMO", "REALISTA", "GRAFICO", "GRÁFICO",
+        "GRAFICOS", "GRÁFICOS", "NPC", "NPCS", "AGUA", "ÁGUA", "CINEMA", "OBRA PRIMA", "GOTY",
+        "SURREAL", "ABSURDO", "BUG", "BUGOU", "EXPLODIU", "CAPOTOU", "POLICIA", "POLÍCIA",
+        "FUGA", "PERSEGUICAO", "PERSEGUIÇÃO", "ESTRELAS", "MORREU", "VOOU", "ATROPELOU", "CAOS",
+        "EASTER EGG", "SEGREDO", "CJ", "SAN ANDREAS", "TOMMY", "TREVOR", "CUTSCENE", "MISSAO", "MISSÃO",
+        "CLIP", "CLIPA", "SALVA", "CARALHO", "TAPORRA", "TA PORRA", "CARACA", "MEU DEUS", "MDS",
+        "IMPOSSIVEL", "IMPOSSÍVEL", "QUE ISSO", "QUE JOGO", "BIZARRO", "LOUCURA", "CHOCADO",
+        "KKKKK", "KAKAKA", "HAHAHA", "OLHA ISSO", "MANO", "SOCORRO", "INSANO"
+      ],
+      "webcam_crop": {
+        "ativo": true,
+        "x": 1180,
+        "y": 590,
+        "w": 640,
+        "h": 400
+      }
+    },
+    {
+      "prioridade": 3,
+      "nome": "Alanzoka",
+      "slug": "alanzoka",
+      "url": "https://www.twitch.tv/alanzoka",
+      "hashtags": "#alanzoka #alan #gta6 #gtavi #gta6gameplay #vicecity #leonida #gta6brasil #nericlipes #shorts",
+      "palavras_gatilho_chat": [
+        "GTA6", "GTA 6", "GTAVI", "GTA VI", "VICE CITY", "LEONIDA", "LUCIA", "JASON",
+        "DETALHE", "DETALHES", "FISICA", "FÍSICA", "REALISMO", "REALISTA", "GRAFICO", "GRÁFICO",
+        "GRAFICOS", "GRÁFICOS", "NPC", "NPCS", "AGUA", "ÁGUA", "CINEMA", "OBRA PRIMA", "GOTY",
+        "SURREAL", "ABSURDO", "BUG", "BUGOU", "EXPLODIU", "CAPOTOU", "POLICIA", "POLÍCIA",
+        "FUGA", "PERSEGUICAO", "PERSEGUIÇÃO", "ESTRELAS", "MORREU", "VOOU", "ATROPELOU", "CAOS",
+        "EASTER EGG", "SEGREDO", "CJ", "SAN ANDREAS", "TOMMY", "TREVOR", "CUTSCENE", "MISSAO", "MISSÃO",
+        "CLIP", "CLIPA", "SALVA", "CARALHO", "TAPORRA", "TA PORRA", "CARACA", "MEU DEUS", "MDS",
+        "IMPOSSIVEL", "IMPOSSÍVEL", "QUE ISSO", "QUE JOGO", "BIZARRO", "LOUCURA", "CHOCADO",
+        "KKKKK", "KAKAKA", "HAHAHA", "OLHA ISSO", "MANO", "SOCORRO", "INSANO"
+      ],
+      "webcam_crop": {
+        "ativo": true,
+        "x": 1490,
+        "y": 272,
+        "w": 422,
+        "h": 263
+      }
+    },
+    {
+      "prioridade": 4,
+      "nome": "LOUD Coringa",
+      "slug": "coringa",
+      "url": "https://kick.com/coringa",
+      "hashtags": "#loudcoringa #coringa #gta6 #gtavi #gta6gameplay #vicecity #leonida #gta6brasil #nericlipes #shorts",
+      "palavras_gatilho_chat": [
+        "GTA6", "GTA 6", "GTAVI", "GTA VI", "VICE CITY", "LEONIDA", "LUCIA", "JASON",
+        "DETALHE", "DETALHES", "FISICA", "FÍSICA", "REALISMO", "REALISTA", "GRAFICO", "GRÁFICO",
+        "GRAFICOS", "GRÁFICOS", "NPC", "NPCS", "AGUA", "ÁGUA", "CINEMA", "OBRA PRIMA", "GOTY",
+        "SURREAL", "ABSURDO", "BUG", "BUGOU", "EXPLODIU", "CAPOTOU", "POLICIA", "POLÍCIA",
+        "FUGA", "PERSEGUICAO", "PERSEGUIÇÃO", "ESTRELAS", "MORREU", "VOOU", "ATROPELOU", "CAOS",
+        "EASTER EGG", "SEGREDO", "CJ", "SAN ANDREAS", "TOMMY", "TREVOR", "CUTSCENE", "MISSAO", "MISSÃO",
+        "CLIP", "CLIPA", "SALVA", "CARALHO", "TAPORRA", "TA PORRA", "CARACA", "MEU DEUS", "MDS",
+        "IMPOSSIVEL", "IMPOSSÍVEL", "QUE ISSO", "QUE JOGO", "BIZARRO", "LOUCURA", "CHOCADO",
+        "KKKKK", "KAKAKA", "HAHAHA", "OLHA ISSO", "MANO", "SOCORRO", "INSANO"
+      ],
+      "webcam_crop": {
+        "ativo": true,
+        "x": 20,
+        "y": 750,
+        "w": 460,
+        "h": 320
+      }
+    },
+    {
+      "prioridade": 5,
+      "nome": "Bkinho",
+      "slug": "bkinho",
+      "url": "https://kick.com/bkinho",
+      "hashtags": "#bkinho #gta6 #gtavi #gta6gameplay #vicecity #leonida #gta6brasil #nericlipes #shorts",
+      "palavras_gatilho_chat": [
+        "GTA6", "GTA 6", "GTAVI", "GTA VI", "VICE CITY", "LEONIDA", "LUCIA", "JASON",
+        "DETALHE", "DETALHES", "FISICA", "FÍSICA", "REALISMO", "REALISTA", "GRAFICO", "GRÁFICO",
+        "GRAFICOS", "GRÁFICOS", "NPC", "NPCS", "AGUA", "ÁGUA", "CINEMA", "OBRA PRIMA", "GOTY",
+        "SURREAL", "ABSURDO", "BUG", "BUGOU", "EXPLODIU", "CAPOTOU", "POLICIA", "POLÍCIA",
+        "FUGA", "PERSEGUICAO", "PERSEGUIÇÃO", "ESTRELAS", "MORREU", "VOOU", "ATROPELOU", "CAOS",
+        "EASTER EGG", "SEGREDO", "CJ", "SAN ANDREAS", "TOMMY", "TREVOR", "CUTSCENE", "MISSAO", "MISSÃO",
+        "CLIP", "CLIPA", "SALVA", "CARALHO", "TAPORRA", "TA PORRA", "CARACA", "MEU DEUS", "MDS",
+        "IMPOSSIVEL", "IMPOSSÍVEL", "QUE ISSO", "QUE JOGO", "BIZARRO", "LOUCURA", "CHOCADO",
+        "KKKKK", "KAKAKA", "HAHAHA", "OLHA ISSO", "MANO", "SOCORRO", "INSANO"
+      ],
+      "webcam_crop": {
+        "ativo": true,
+        "x": 1440,
+        "y": 750,
+        "w": 460,
+        "h": 320
+      }
+    }
+  ]
+}
